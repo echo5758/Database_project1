@@ -8,7 +8,7 @@ scudb文件夹里是源码，scudb.zip是整个项目文件，img文件夹里是
 
 测试截图：
 
-taske1
+task1
 
 ![TASK #1 - EXTENDIBLE HASH TABLE](https://user-images.githubusercontent.com/55120118/142726636-4e2d45d7-2b17-4a90-bf5c-2a10cb7ab989.png)
 
